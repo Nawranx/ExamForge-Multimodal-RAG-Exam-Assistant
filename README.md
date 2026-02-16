@@ -37,7 +37,7 @@ An intelligent PDF assistant powered by **Multimodal RAG** and **Groq's ultra-fa
 
 ### 1. Clone the Repository
 ```bash
-https://github.com/Nawranx/ExamForge---Multimodal-RAG-Exam-Assistant.git
+https://github.com/Nawranx/ExamForge-Multimodal-RAG-Exam-Assistant.git
 ```
 
 ### 2. Create Virtual Environment (Recommended)
