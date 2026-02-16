@@ -1,4 +1,4 @@
-# 🔥 ExamForge - Multimodal RAG Exam Assistant
+# ExamForge - Multimodal RAG Exam Assistant
 
 An intelligent PDF assistant powered by **Multimodal RAG** and **Groq's ultra-fast LLM inference** that enables users to chat with their PDF documents and automatically generate comprehensive exam questions from study materials.
 
@@ -37,8 +37,7 @@ An intelligent PDF assistant powered by **Multimodal RAG** and **Groq's ultra-fa
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Rag_Pdf_Assistant.git
-cd Rag_Pdf_Assistant
+https://github.com/Nawranx/ExamForge---Multimodal-RAG-Exam-Assistant.git
 ```
 
 ### 2. Create Virtual Environment (Recommended)
@@ -127,7 +126,7 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 
-[Add your license here - e.g., MIT, Apache 2.0]
+MIT
 
 ## 🙏 Acknowledgments
 
